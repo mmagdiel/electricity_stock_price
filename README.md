@@ -1,4 +1,4 @@
-# Stock Market
+# Electricity Stock Market
 Calculate the price of the stock market by hour given a data in excel
 
 ## How use 
@@ -11,7 +11,7 @@ Calculate the price of the stock market by hour given a data in excel
     python3 index.py
 ```
 
-# For test
+## For test
 ```
     python3 test_helpers.py
     python3 test_solution.py
